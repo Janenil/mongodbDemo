@@ -1,0 +1,21 @@
+{
+  "name": "mongodb-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "setting.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "fs": "0.0.1-security",
+    "http-server": "^0.11.1",
+    "jade": "^1.11.0",
+    "mongodb": "^3.1.1",
+    "mongoose": "^5.2.3",
+    "path": "^0.12.7"
+  }
+}
